@@ -1,4 +1,4 @@
-# EastAnt Atlantis
+# Welcome to EastAnt-Atlantis! :penguin:
 ## An East Antarctic implementation for Atlantis, an end-to-end ecosystem model
 
 ![img_crop](https://github.com/East-Antarctic-Atlantis-model/.github/assets/85492378/68ad3bc3-58fb-4b45-9a50-8746541800ec)
