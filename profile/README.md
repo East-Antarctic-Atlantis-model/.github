@@ -17,7 +17,7 @@ The page contains all elements required for running the EastAnt implementation o
 |     +--- /"Archived_projections"
 |          |--- EastAnt_28boxes
 |          |--- EastAnt_29boxes_old
-|          |--- intermediate_proj__EA29
+|          |--- intermediate_proj__EA29/
 
 
 ## What is Atlantis?
