@@ -11,14 +11,6 @@ The project aims to follow the FAIR (Findable, Accessible, Interoperable, Reusab
 ## Page structure
 The page contains all elements required for running the EastAnt implementation of Atlantis. The model itself is under licence and needs to be installed separately.
 
-/East-Antarctic-Atlantis-model
-|--- 
-+--- /Polygons
-|     +--- /"Archived_projections"
-|          |--- EastAnt_28boxes
-|          |--- EastAnt_29boxes_old
-|          |--- intermediate_proj__EA29/
-
 
 ## What is Atlantis?
 Atlantis is an end-to-end ecosystem model that represents interactions between all levels and spheres (i.e., physical, chemical, biological, economic, social, and more) of an ecosystem; it was developed by Dr. Beth Fulton at CSIRO (for more information, see [https://research.csiro.au/atlantis/] and Fulton et al., 2004). Atlantis' strength lies in its ability to simulate long-term scenarios, such as the impact of human activities and climate change, to aid management and decision-making; due to its complexity, it requires the input of several experts and careful calibration.
