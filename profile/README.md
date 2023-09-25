@@ -1,7 +1,7 @@
 # Welcome to EastAnt-Atlantis! :penguin:
 ## An East Antarctic implementation for Atlantis, an end-to-end ecosystem model
 
-![](East-Antarctic-Atlantis-model/.github/profile/img.png)
+![](figures/img.png)
 
 Welcome to the organisation page for EastAnt-Atlantis. The model aims to represent interactions between species and groups present in East Antarctic marine environments. The domain consists of 29 polygons, each representing a different biological and physical regime. 
 
