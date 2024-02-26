@@ -1,8 +1,7 @@
 # EastAnt-Atlantis :penguin:
 ## An East Antarctic implementation for Atlantis, an end-to-end ecosystem model
 
-
-![img_eaammap](https://github.com/East-Antarctic-Atlantis-model/.github/assets/85492378/e7d94c2c-3f57-4ec8-a8b3-31f3830a463f)
+![img_eaammap](https://github.com/East-Antarctic-Atlantis-model/.github/assets/85492378/4dac7c48-b1b8-40dd-af81-5f2d7f21b984)
 
 
 Welcome to the **EastAnt-Atlantis** model page. Here you will find information on the model's nature, function, and structure.
