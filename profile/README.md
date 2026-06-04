@@ -1,17 +1,17 @@
-# EastAnt-Atlantis :penguin:
+# EAAM - East Antarctic Atlantis Model :penguin:
 ## An East Antarctic implementation for Atlantis, an end-to-end ecosystem model
 
 ![img_eaammap](https://github.com/East-Antarctic-Atlantis-model/.github/assets/85492378/4dac7c48-b1b8-40dd-af81-5f2d7f21b984)
 
 
-Welcome to the **EastAnt-Atlantis** model page. Here you will find information on the model's nature, function, and structure.
+Welcome to the **EAAM** model page. Here you will find information on the model's nature, function, and structure.
 
 ## Introduction
 This organisation is being built as part of a PhD project by Ilaria Stollberg (supported by the [AAPP Program](https://aappartnership.org.au/)), under the supervision of Dr.s Sophie Bestley, Jess Melbourne-Thomas, Javier Porobic Garate, and David Green at the Institute for Marine and Antarctic Studies (IMAS-UTAS) and the Commonwealth Scientific and Industrial Research Organisation (CSIRO). The model is still under development; the calibrated version will be available in 2024.
 
 The project aims to follow the [FAIR data principles](https://www.nature.com/articles/sdata201618) (Findable, Accessible, Interoperable, Reusable) to ensure reproducibility and long-term usefulness of the model.
 
-The organisation page contains all elements required for running the EastAnt implementation of Atlantis. The model itself is under licence and needs to be installed separately; you can find instructions on becoming part of the Atlantis community [here](https://research.csiro.au/atlantis/home/links/).
+The organisation page contains all elements required for running the East Antarctic implementation of Atlantis. The model itself is under licence and needs to be installed separately; you can find instructions on becoming part of the Atlantis community [here](https://research.csiro.au/atlantis/home/links/).
 
 ## What is Atlantis?
 Atlantis is an end-to-end ecosystem model that represents interactions between all levels and spheres (i.e., physical, chemical, biological, economic, social, and more) of an ecosystem; it was developed by Dr. Beth Fulton at [CSIRO](https://research.csiro.au/atlantis/) (for more information on the model, see [Fulton et al., 2004](https://linkinghub.elsevier.com/retrieve/pii/S0304380003004290)). Atlantis' strength lies in its ability to simulate long-term scenarios, such as the impact of human activities and climate change, to aid management and decision-making; due to its complexity, it requires the input of several experts and careful calibration.
@@ -22,7 +22,7 @@ East Antarctica, specifically the Prydz Bay area, is a region that encompasses s
 ## Model domain
 The domain consists of 29 polygons, each representing a different biological and physical regime; each box may be divided into up to 10 depth layers which capture biologically and physically important processes such as primary production, foraging, remineralisation at surface and in deeper waters, and iceberg scouring. Physical drivers (i.e., currents, temperature, salinity) are obtained from the output of ACCESS-OM2, a physical model described by [Kiss et al., (2020)](https://gmd.copernicus.org/articles/13/401/2020/); ecologically important variables, such as sea ice seasonality and mixed layer depth, were validated by [Fierro-Arcos et al., 2023](https://linkinghub.elsevier.com/retrieve/pii/S0079661123000927).
 ## Functional groups
-EastAnt-Atlantis contains 29 functional groups, 8 of which are resolved to the species level. Functional groups are collections of species that share similar life histories, feeding habits, and/or role within an ecosystem; generally, Atlantis models reserve species-level distinction only when the species has a particular importance, for example it is a keystone for its habitat, or is commercially/culturally important.
+The EAAM contains 29 functional groups, 8 of which are resolved to the species level. Functional groups are collections of species that share similar life histories, feeding habits, and/or role within an ecosystem; generally, Atlantis models reserve species-level distinction only when the species has a particular importance, for example it is a keystone for its habitat, or is commercially/culturally important.
 The selection of species and functional groups is based on information and input from experts on Antarctic biology, which can be found on [SOKI (Southern Ocean Knowledge and Information wiki)](https://sokiaq.atlassian.net/wiki/spaces/ABOUT/overview?mode=global).
 
 ## References
