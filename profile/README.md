@@ -7,7 +7,7 @@
 Welcome to the **EAAM** model page. Here you will find information on the model's nature, function, and structure.
 
 ## Introduction
-This organisation is being built as part of a PhD project by Ilaria Stollberg (supported by the [AAPP Program](https://aappartnership.org.au/)), under the supervision of Dr.s Sophie Bestley, Jess Melbourne-Thomas, Javier Porobic Garate, and David Green at the Institute for Marine and Antarctic Studies (IMAS-UTAS) and the Commonwealth Scientific and Industrial Research Organisation (CSIRO). The model is still under development; the calibrated version will be available in 2024.
+This organisation is being built as part of a PhD project by Ilari Stollberg (supported by the [AAPP Program](https://aappartnership.org.au/)), under the supervision of Dr.s Sophie Bestley, Jess Melbourne-Thomas, Javier Porobic Garate, and David Green at the Institute for Marine and Antarctic Studies (IMAS-UTAS) and the Commonwealth Scientific and Industrial Research Organisation (CSIRO). The model is still under development; the calibrated version will be available in 2024.
 
 The project aims to follow the [FAIR data principles](https://www.nature.com/articles/sdata201618) (Findable, Accessible, Interoperable, Reusable) to ensure reproducibility and long-term usefulness of the model.
 
